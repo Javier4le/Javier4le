@@ -54,10 +54,10 @@ I'm a Web Developer with my ♥ in Frontend.
 
 ---
 
-<div>
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javier4le&layout=compact&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api?username=Javier4le&show_icons=true&theme=radical">
-</div>
+</p>
 
 
 
