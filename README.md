@@ -18,16 +18,16 @@ I'm a Web Developer with my ♥ in Frontend.
 </a>
 -->
 
-<a href="https://linkedin.javier4le.com">
+<a href="https://linkedin.javier4le.com" target="_blank">
 <img align="left" alt="Javier Rojas LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=99e5df" />
 </a>
-<a href="https://www.instagram.com/javier4le/">
+<a href="https://www.instagram.com/javier4le/" target="_blank">
 <img align="left" alt="Javier Rojas Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=99e5df" />
 </a>
-<a href="https://github.Javier4le.com">
+<a href="https://github.Javier4le.com" target="_blank">
 <img align="left" alt="Javier Rojas Github" width="22px" src="https://icongr.am/fontawesome/github.svg?size=128&color=99e5df" />
 </a>
-<a href="https://stackoverflow.javier4le.com">
+<a href="https://es.stackoverflow.com/users/227840/javier4le" target="_blank">
 <img align="left" alt="Javier Rojas Stackoverflow" width="22px" src="https://icongr.am/fontawesome/stack-overflow.svg?size=128&color=99e5df" />
 </a>
 
