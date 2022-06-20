@@ -1,3 +1,5 @@
+<p align="right">Language: English | <a href="README-es.md">Español</a> </p>
+
 <h1 align="center">Hello World 🌎, I'm Javier Rojas 💻🎓</h1> 
 
 I'm a Web Developer with my ♥ in Frontend.
