@@ -1,6 +1,7 @@
 <p align="right">Language: English | <a href="README-es.md">Español</a> </p>
 
-<h1 align="center">Hello World 🌎, I'm Javier Rojas 💻🎓</h1> 
+<h1 align="center">Hello World 🌎, I'm Javier Rojas 💻🎓</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Javier4le&label=Profile%20views&color=0e75b6&style=flat" alt="Javier4le" /> </p>
 
 I'm a Web Developer with my ♥ in Frontend.
 
@@ -51,6 +52,7 @@ I'm a Web Developer with my ♥ in Frontend.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 
