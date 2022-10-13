@@ -1,35 +1,32 @@
 <p align="right">Language: English | <a href="README-es.md">Español</a> </p>
 
+
 <h1 align="center">Hello World 🌎, I'm Javier Rojas 💻🎓</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Javier4le&label=Profile%20views&color=0e75b6&style=flat" alt="Javier4le" /> </p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Javier4le&label=Profile%20views&color=0e75b6&style=flat" alt="Javier4le" />
+</p>
+
+<a href="https://app.daily.dev/Javier4le" target="_blank">
+  <img width="256" align="right" src="https://api.daily.dev/devcards/045561ece885472abb2862c72ec12851.png?r=ko9" alt="Javier's Dev Card"/>
+</a>
 
 I'm a Web Developer with my ♥ in Frontend.
 
 <br/>
 
-<!-- 
-<a href="https://twitter.com"> 
-<img align="left" alt="Javier Rojas Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=99e5df" />
-</a>
-<a href="https://youtube.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo YouTube" width="22px" src="https://icongr.am/fontawesome/youtube.svg?size=128&color=99e5df" />
-</a>
-<a href="https://twitch.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=99e5df" />
-</a>
--->
 
 <a href="https://www.linkedin.com/in/javier4le/" target="_blank">
-<img align="left" alt="Javier Rojas LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=99e5df" />
+<img align="left" alt="Javier's LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=99e5df" />
 </a>
 <a href="https://www.instagram.com/javier4le/" target="_blank">
-<img align="left" alt="Javier Rojas Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=99e5df" />
+<img align="left" alt="Javier's Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=99e5df" />
 </a>
 <a href="https://github.com/Javier4le" target="_blank">
-<img align="left" alt="Javier Rojas Github" width="22px" src="https://icongr.am/fontawesome/github.svg?size=128&color=99e5df" />
+<img align="left" alt="Javier's Github" width="22px" src="https://icongr.am/fontawesome/github.svg?size=128&color=99e5df" />
 </a>
 <a href="https://es.stackoverflow.com/users/227840/javier4le" target="_blank">
-<img align="left" alt="Javier Rojas Stackoverflow" width="22px" src="https://icongr.am/fontawesome/stack-overflow.svg?size=128&color=99e5df" />
+<img align="left" alt="Javier's Stackoverflow" width="22px" src="https://icongr.am/fontawesome/stack-overflow.svg?size=128&color=99e5df" />
 </a>
 
 <br />
@@ -57,6 +54,7 @@ I'm a Web Developer with my ♥ in Frontend.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 
 ---
+
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javier4le&layout=compact&theme=radical">
