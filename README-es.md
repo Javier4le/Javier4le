@@ -1,23 +1,18 @@
 <p align="right">Idioma: <a href="README.md">English</a> | Español </p>
 
 <h1 align="center">Hola Mundo 🌎, soy Javier Rojas 💻🎓</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Javier4le&label=Profile%20views&color=0e75b6&style=flat" alt="Javier4le" /> </p>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Javier4le&label=Profile%20views&color=0e75b6&style=flat" alt="Javier4le" /> 
+</p>
+
+<a href="https://app.daily.dev/Javier4le" target="_blank">
+  <img width="256" align="right" src="https://api.daily.dev/devcards/045561ece885472abb2862c72ec12851.png?r=ko9" alt="Javier's Dev Card"/>
+</a>
 
 Soy un Desarrollador Web con mi ♥ en el Frontend.
 
 <br/>
 
-<!-- 
-<a href="https://twitter.com"> 
-<img align="left" alt="Javier Rojas Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=99e5df" />
-</a>
-<a href="https://youtube.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo YouTube" width="22px" src="https://icongr.am/fontawesome/youtube.svg?size=128&color=99e5df" />
-</a>
-<a href="https://twitch.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=99e5df" />
-</a>
--->
 
 <a href="https://www.linkedin.com/in/javier4le/" target="_blank">
 <img align="left" alt="Javier Rojas LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=99e5df" />
