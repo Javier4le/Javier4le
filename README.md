@@ -1,9 +1,10 @@
-<p align="right">Language: English | <a href="README-es.md">Español</a> </p>
+<p align="right">Language: English | <a href="README-es.md">Español</a></p>
 
+<p align="center"><code>&gt; whoami</code></p>
+<h1 align="center">Javier Rojas</h1>
+<p align="center"><code>Software Developer</code></p>
 
-<h1 align="center">Hello World 🌎, I'm Javier Rojas 💻🎓</h1>
-
-<p align="center"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Javier4le&label=Profile%20views&color=0e75b6&style=flat" alt="Javier4le" />
 </p>
 
@@ -11,16 +12,18 @@
   <img width="256" align="right" src="https://api.daily.dev/devcards/045561ece885472abb2862c72ec12851.png?r=ko9" alt="Javier's Dev Card"/>
 </a>
 
-I'm a Web Developer with my ♥ in Frontend.
+Building web applications since 2021 with Vue, React and Laravel. Strong in
+frontend, comfortable in backend, and currently going deeper into architecture,
+testing and building software with AI agents.
 
-<br/>
+> Writing code was never the hard part. Deciding, planning, delegating,
+> reviewing and verifying, that's the work.
 
-
+<a href="https://javier4le.dev" target="_blank">
+<img align="left" alt="Javier's website" width="22px" src="https://icongr.am/fontawesome/globe.svg?size=128&color=99e5df" />
+</a>
 <a href="https://www.linkedin.com/in/javier4le/" target="_blank">
 <img align="left" alt="Javier's LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=99e5df" />
-</a>
-<a href="https://www.instagram.com/javier4le/" target="_blank">
-<img align="left" alt="Javier's Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=99e5df" />
 </a>
 <a href="https://github.com/Javier4le" target="_blank">
 <img align="left" alt="Javier's Github" width="22px" src="https://icongr.am/fontawesome/github.svg?size=128&color=99e5df" />
@@ -30,53 +33,29 @@ I'm a Web Developer with my ♥ in Frontend.
 </a>
 
 <br />
-<!--
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
--->
 <br />
 
-## What i'm up to
+## What I'm up to
 
-- 🌱 I’m currently learning [React](https://reactjs.org).
+- 🐾 Building [**Vetary**](https://github.com/Javier4le/vetary), a multi-tenant
+  booking platform for veterinary clinics. NestJS, TypeScript, PostgreSQL and
+  React, with automated tests running in CI on every push.
+- 🌐 Just shipped [**javier4le.dev**](https://javier4le.dev), my portfolio.
+  Built with Astro: fast, bilingual and built to be found.
+- 🔐 Studying for the **eJPTv2** certification in offensive security.
 
 <br />
 
 ## Technologies
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,vue,react,astro,tailwind,sass,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,laravel,php,postgres,mysql,prisma,jest,git,linux&theme=dark)](https://skillicons.dev)
+
+<br />
 
 ---
-
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javier4le&layout=compact&theme=radical">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Javier4le&show_icons=true&theme=radical">
 </p>
-
-
-
-
-<!--
-**Javier4le/Javier4le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🌱 I’m currently working with ...
-- 💬 Creating content in [my blog](https://blog.gonzalopozzo.com).
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
