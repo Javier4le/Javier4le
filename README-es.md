@@ -1,77 +1,53 @@
-<p align="right">Idioma: <a href="README.md">English</a> | Español </p>
+<p align="right">Idioma: <a href="README.md">English</a> | Español</p>
 
-<h1 align="center">Hola Mundo 🌎, soy Javier Rojas 💻🎓</h1>
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=Javier4le&label=Profile%20views&color=0e75b6&style=flat" alt="Javier4le" /> 
+<p align="center"><code>&gt; whoami</code></p>
+<h1 align="center">Javier Rojas</h1>
+<p align="center"><code>Desarrollador de Software</code></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Javier4le&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Javier4le" />
 </p>
 
-<a href="https://app.daily.dev/Javier4le" target="_blank">
-  <img width="256" align="right" src="https://api.daily.dev/devcards/045561ece885472abb2862c72ec12851.png?r=ko9" alt="Javier's Dev Card"/>
+Construyo aplicaciones web desde 2021 con Vue, React y Laravel. Fuerte en
+frontend, cómodo en backend, y hoy profundizando en arquitectura, testing y
+desarrollo con agentes de IA.
+
+> Escribir código nunca fue la parte difícil. Decidir, planificar, delegar,
+> revisar y verificar, sí.
+
+<a href="https://javier4le.dev" target="_blank">
+<img align="left" alt="Sitio web de Javier" width="22px" src="https://icongr.am/fontawesome/globe.svg?size=128&color=99e5df" />
 </a>
-
-Soy un Desarrollador Web con mi ♥ en el Frontend.
-
-<br/>
-
-
 <a href="https://www.linkedin.com/in/javier4le/" target="_blank">
-<img align="left" alt="Javier Rojas LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=99e5df" />
-</a>
-<a href="https://www.instagram.com/javier4le/" target="_blank">
-<img align="left" alt="Javier Rojas Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=99e5df" />
+<img align="left" alt="LinkedIn de Javier" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=99e5df" />
 </a>
 <a href="https://github.com/Javier4le" target="_blank">
-<img align="left" alt="Javier Rojas Github" width="22px" src="https://icongr.am/fontawesome/github.svg?size=128&color=99e5df" />
+<img align="left" alt="Github de Javier" width="22px" src="https://icongr.am/fontawesome/github.svg?size=128&color=99e5df" />
 </a>
 <a href="https://es.stackoverflow.com/users/227840/javier4le" target="_blank">
-<img align="left" alt="Javier Rojas Stackoverflow" width="22px" src="https://icongr.am/fontawesome/stack-overflow.svg?size=128&color=99e5df" />
+<img align="left" alt="Stackoverflow de Javier" width="22px" src="https://icongr.am/fontawesome/stack-overflow.svg?size=128&color=99e5df" />
 </a>
 
 <br />
-<!--
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
--->
 <br />
 
-## Lo que estoy haciendo
+## En qué estoy
 
-- 🌱 Actualmente estoy aprendiendo [React](https://reactjs.org)
+- 🐾 Construyendo [**Vetary**](https://github.com/Javier4le/vetary), una
+  plataforma multi-tenant de reservas para clínicas veterinarias. NestJS,
+  TypeScript, PostgreSQL y React, con tests automatizados corriendo en CI en
+  cada push.
+- 🌐 Recién publicado [**javier4le.dev**](https://javier4le.dev), mi portfolio.
+  Hecho con Astro: rápido, bilingüe y pensado para ser encontrado.
+- 🔐 Estudiando para la certificación **eJPTv2** en seguridad ofensiva.
 
 <br />
 
 ## Tecnologías
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+
+[![Mis skills](https://skillicons.dev/icons?i=ts,js,vue,react,astro,tailwind,sass,html,css&theme=dark)](https://skillicons.dev)
+[![Mis skills](https://skillicons.dev/icons?i=nestjs,nodejs,laravel,php,postgres,mysql,prisma,jest,git,linux&theme=dark)](https://skillicons.dev)
+
+<br />
 
 ---
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javier4le&layout=compact&theme=radical&locale=es">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Javier4le&show_icons=true&theme=radical&locale=es">
-</p>
-
-
-
-
-<!--
-**Javier4le/Javier4le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🌱 I’m currently working with ...
-- 💬 Creating content in [my blog](https://blog.gonzalopozzo.com).
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
