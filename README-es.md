@@ -8,6 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=Javier4le&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Javier4le" />
 </p>
 
+<a href="https://app.daily.dev/Javier4le" target="_blank">
+  <img width="256" align="right" src="https://api.daily.dev/devcards/045561ece885472abb2862c72ec12851.png?r=ko9" alt="Javier's Dev Card"/>
+</a>
+
 Construyo aplicaciones web desde 2021 con Vue, React y Laravel. Fuerte en
 frontend, cómodo en backend, y hoy profundizando en arquitectura, testing y
 desarrollo con agentes de IA.
