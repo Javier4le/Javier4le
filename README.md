@@ -54,8 +54,3 @@ testing and building software with AI agents.
 <br />
 
 ---
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javier4le&layout=compact&theme=radical">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Javier4le&show_icons=true&theme=radical">
-</p>
